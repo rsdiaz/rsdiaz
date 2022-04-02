@@ -4,7 +4,16 @@
 </p>
 
 <h1 align="center">👋 Hola, soy Roberto Serrano Díaz-Grande</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsdiaz)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=rsdiazs&show_icons=true&theme=vue">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=rsdiaz&show_icons=true&theme=vue" height="175" alt="rsdiaz"/>
+  </a> 
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgs&theme=vue&layout=compact">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgs&theme=vue&layout=compact" height="175"/>
+  </a> 
+</p>
+
 <!--
 **rsdiaz/rsdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
