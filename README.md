@@ -1,16 +1,14 @@
-![Roberto Serrano Diaz-Grande](https://res.cloudinary.com/rserrano/image/upload/v1600822620/blog/roberto_serrano_t3yzqu.jpg)
-<p align="center"> 
+<h1 align="left">👋 Hola, soy Roberto Serrano Díaz-Grande</h1>
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rsdiaz&style=for-the-badge" alt="rsdiaz" />
 </p>
-
-<h1 align="center">👋 Hola, soy Roberto Serrano Díaz-Grande</h1>
-
+Soy **desarrollador web fullstack**, entusiasta del desarrollo web y la seguridad informatica. Actualmente trabajo como desarrollador web para una importante empresa del sector de la automoción en España.
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=rsdiazs&show_icons=true&theme=vue">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=rsdiaz&show_icons=true&theme=vue" height="175" alt="rsdiaz"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=rsdiazs&show_icons=true&theme=vue-dark">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=rsdiaz&show_icons=true&theme=vue-dark" height="175" alt="rsdiaz"/>
   </a> 
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgs&theme=vue&layout=compact">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgs&theme=vue&layout=compact" height="175"/>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rsdiaz&theme=vue-dark&layout=compact">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsdiaz&theme=vue-dark&layout=compact" height="175"/>
   </a> 
 </p>
 
