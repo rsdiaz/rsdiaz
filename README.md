@@ -18,8 +18,12 @@ Puedes ponerte en contacto conmigo para lo que necesites.
 <br />
 <br />
 <p>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/>
+  <a href="https://github.com/rsdiaz">
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+  </a>
+  <a href="https://twitter.com/rovbeat">
+    <img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/>
+  </a>
   <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/steam.png"/>
 </p>
