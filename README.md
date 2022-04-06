@@ -27,7 +27,9 @@ Puedes ponerte en contacto conmigo para lo que necesites.
   <a href="www.linkedin.com/in/roberto-serrano-diaz-grande">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   </a>
-  <img src="https://img.icons8.com/fluency/48/000000/steam.png"/>
+  <a href="https://steamcommunity.com/id/gamerys">
+    <img src="https://img.icons8.com/fluency/48/000000/steam.png"/>
+  </a>
 </p>
 
 <h2>🙋‍♂️ Mi actividad en GitHub</h2>
