@@ -35,7 +35,7 @@ Puedes ponerte en contacto conmigo para lo que necesites.
 <h2>🙋‍♂️ Mi actividad en GitHub</h2>
 
 <p>
-  <a href="https://github-readme-stats.vercel.app/api?username=rsdiazs&show_icons=true&theme=vue-dark">
+  <a href="https://github-readme-stats.vercel.app/api?username=rsdiaz&show_icons=true&theme=vue-dark">
     <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=rsdiaz&show_icons=true&theme=vue-dark" height="175" alt="rsdiaz"/>
   </a> 
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rsdiaz&theme=vue-dark&layout=compact">
