@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=rsdiaz&style=for-the-badge" alt="rsdiaz" />
 </p>
 
-Soy **desarrollador web fullstack** 👨‍💻, entusiasta del desarrollo web y la seguridad informática. Actualmente, trabajo como desarrollador web para una importante empresa del sector de la automoción en España. Me apasiona el desarrollo del software y la tecnología en general. Me encanta el open source y el software libre, apuesto por el conocimiento/formación libre y accesible para todos 🌍.
+Soy **desarrollador web fullstack** 👨‍💻, entusiasta del desarrollo web y la seguridad informática. Actualmente, trabajo como desarrollador web para una importante empresa del sector de la automoción en España. Me apasiona el desarrollo de software y la tecnología en general. Me encanta el open source y el software libre, apuesto por el conocimiento/formación libre y accesible para todos 🌍.
 
 
 Cuando no estoy escribiendo código o cacharreando con dispositivos 🛠, me puedes encontrar pescando 🎣 o simplemente disfrutando de la naturaleza.
